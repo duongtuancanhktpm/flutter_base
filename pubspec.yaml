@@ -1,0 +1,11 @@
+name: flutter_base
+
+environment:
+  sdk: ^3.11.0
+
+dev_dependencies:
+  melos: ^7.4.0
+
+workspace:
+  - packages/*
+  - apps/*

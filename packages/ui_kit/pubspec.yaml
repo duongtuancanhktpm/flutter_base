@@ -1,0 +1,20 @@
+name: ui_kit
+resolution: workspace
+description: "ui kit"
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ^3.11.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
